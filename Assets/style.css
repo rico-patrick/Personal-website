@@ -692,3 +692,29 @@
     1404px 864px #fff, 1527px 1407px #fff, 771px 1888px #fff, 1676px 466px #fff,
     1257px 1135px #fff;
 }
+
+/*About*/
+#about{
+    padding-top: 4rem;
+  }
+  .about h3 {
+    font-size: 30px;
+    line-height: 35px;
+    color: #010101;
+    padding-top: 2rem;
+    padding-bottom: 0em;
+    position: relative;
+    font-weight: 700;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  #title h3 {
+    font-size: 30px;
+    line-height: 35px;
+    color: #ffffff;
+    padding-bottom: 0em;
+    position: relative;
+    font-weight: 700;
+    margin-bottom: 40px;
+    text-align: center;
+  }
