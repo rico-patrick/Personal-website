@@ -1079,4 +1079,88 @@
   .portfolio-modal .close-modal:hover {
     opacity: 0.3;
   }
+
+/*--/contact--*/
+section#contact {
+    background-color: #212529;
+    background-image: url("/Assets/images/contact.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 4rem;
+  }
+  section#contact .section-heading {
+    color: #fff;
+    font-size: 2.5rem;
+    font-weight: 400;
+    padding: 2rem;
+    margin: 1rem;
+  }
+  section#contact form#contactForm .form-group {
+    margin-bottom: 1.5rem;
+  }
+  section#contact form#contactForm .form-group input,
+  section#contact form#contactForm .form-group textarea {
+    background: none;
+    padding: 1.25rem;
+  }
+  section#contact form#contactForm .form-group input.form-control {
+    background: none;
+    height: auto;
+  }
+  section#contact form#contactForm .form-group-textarea {
+    background: none;
+    height: 100%;
+  }
+  section#contact form#contactForm .form-group-textarea textarea {
+    height: 100%;
+    background: none;
+    min-height: 10rem;
+  }
+  section#contact form#contactForm p.help-block {
+    margin: 0;
+  }
+  section#contact form#contactForm .form-control:focus {
+    border-color: #3b34a0;
+    box-shadow: none;
+    background: none;
+  }
+  .btn-xl {
+      padding-top: 1rem;
+      padding-bottom: .3rem;
+      font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      font-size: 1.125rem;
+      font-weight: 700;
+  }
+  /*--footer--*/
+  .footer {
+    text-align: center;
+    font-size: 0.9rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+    .footers-1 .d-grid {
+      display: grid; }
+    .footers-1 .grid-columns-2 {
+      grid-template-columns: 2.5fr 1fr;
+      grid-column-gap: 20px; }
+    .footers-1 .align-right {
+      text-align: right; }
+    .footers-1 .footer {
+      position: relative;
+      background-color: #010101; }
+    .footers-1 .footer-left p {
+      font-size: 16px;
+      line-height: 26px;
+      color: #aaa; }
+    .footers-1 .footer-left p a {
+      color: #00d679; }
+      .footers-1 .footer-left p a :hover{
+        color: #00d679;
   
+      }
+    .footers-1 ul.social li {
+      display: inline-block;
+      margin-left: 20px; }
+    .footers-1 ul.social li a {
+      color: #00d679; }
+    .footers-1 ul.social li a:hover {
+      color: #ffffff; }
