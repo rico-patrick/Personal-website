@@ -79,7 +79,7 @@
 }
 
 .main-banner .banner-view {
-  background: url(/Assets/images/image01.jpg) no-repeat right;
+  background: url(Assets/images/image01.jpg) no-repeat right;
   background-size: cover;
   min-height: 700px;
   z-index: 0;
@@ -1083,7 +1083,7 @@
 /*--/contact--*/
 section#contact {
     background-color: #212529;
-    background-image: url("/Assets/images/contact.jpg");
+    background-image: url("Assets/images/contact.jpg");
     background-repeat: no-repeat;
     background-position: center;
     padding-top: 4rem;
