@@ -1,5 +1,8 @@
-/*--navbar--*/
+html{
+  scroll-behavior: smooth;
+}
 
+/*--navbar--*/
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -79,7 +82,7 @@
 }
 
 .main-banner .banner-view {
-  background: url(Assets/images/image01.jpg) no-repeat right;
+  background: url(../Assets/images/image01.jpg) no-repeat right;
   background-size: cover;
   min-height: 700px;
   z-index: 0;
@@ -956,7 +959,7 @@
   }
   
   .services .icon-box h4 a {
-    color: #fff;
+    color: #010101;
   }
   
   .services .icon-box p {
