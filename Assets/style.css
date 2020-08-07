@@ -1098,31 +1098,31 @@ section#contact {
     padding: 2rem;
     margin: 1rem;
   }
-  section#contact form#contactForm .form-group {
+  section#contact form#gform .form-group {
     margin-bottom: 1.5rem;
   }
-  section#contact form#contactForm .form-group input,
-  section#contact form#contactForm .form-group textarea {
+  section#contact form#gform .form-group input,
+  section#contact form#gform .form-group textarea {
     background: none;
     padding: 1.25rem;
   }
-  section#contact form#contactForm .form-group input.form-control {
+  section#contact form#gform .form-group input.form-control {
     background: none;
     height: auto;
   }
-  section#contact form#contactForm .form-group-textarea {
+  section#contact form#gform .form-group-textarea {
     background: none;
     height: 100%;
   }
-  section#contact form#contactForm .form-group-textarea textarea {
+  section#contact form#gform .form-group-textarea textarea {
     height: 100%;
     background: none;
     min-height: 10rem;
   }
-  section#contact form#contactForm p.help-block {
+  section#contact form#gform p.help-block {
     margin: 0;
   }
-  section#contact form#contactForm .form-control:focus {
+  section#contact form#gform .form-control:focus {
     border-color: #3b34a0;
     box-shadow: none;
     background: none;
